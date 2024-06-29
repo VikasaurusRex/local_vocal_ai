@@ -19,4 +19,4 @@ LLM - Large Language Model - text to text logic and response engine
 
 TTS - Text to Speech - from text to audio to play as a response
 
-`pyttsv3`
+`pyttsx3`
